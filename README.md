@@ -2,4 +2,6 @@
 
 <blockquote><i>Motto: "Made for people"</i></blockquote>
 
-To be done using Quasar https://quasar.dev/
+## Implementation notes
+
+ * To be done using Quasar https://quasar.dev/
